@@ -11,8 +11,7 @@
 
 ---
 
-### Tech Stack
-#### Languages<h3 align="left">Languages and Tools:</h3>
+#### Languages<h3 align="left">Languages:</h3>
 - C / C++
 - Python [Django, Flask, Pandas, Numpy]
 - Data structure
