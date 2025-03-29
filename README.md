@@ -1,6 +1,6 @@
 ## Hi, There. This is Anower Hossain.
 
-### Backend Engineer | Enthusiast in Programming & Research |
+### Backend Engineer 
 
 ##- I have been working as a programmer for several years, with experience in C, C++, and Python, Algorithms, and Data structure. I am passionate about problem-solving and enjoy finding creative solutions to complex challenges. Beyond technical skills, I am skilled at explaining complex concepts in simple terms. I stay updated on the latest programming trends and continuously seek to improve my knowledge.
 
