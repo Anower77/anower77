@@ -14,8 +14,8 @@
 #### <h3 align="left">Languages:</h3>
 - C / C++
 - Python [Django, Flask, Pandas, Numpy]
-- Data structure
-- Algorithms
+- C++ [Data structure, Algorithms]
+
 
 
 ---
