@@ -2,7 +2,7 @@
 
 ### Backend Engineer 
 
-##- I have been working as a programmer for several years, with experience in C, C++, and Python, Algorithms, and Data structures. I am passionate about problem-solving and enjoy finding creative solutions to complex challenges. Beyond technical skills, I am skilled at explaining complex concepts in simple terms. I stay updated on the latest programming trends and continuously seek to improve my knowledge.
+##- I have been working as a programmer for several years, with experience in C, C++, and Python, Algorithms, and Data structures. I am passionate about problem-solving and enjoy finding creative solutions to complex challenges. 
 
 ### About Me
 - **Expertise:** Backend Engineer, REST API, Database, Cloud (AWS, DO)
@@ -13,7 +13,7 @@
 
 #### <h3 align="left">Languages:</h3>
 - C / C++
-- Python [Django, Flask, Pandas, Numpy]
+- Python [Django, Flask, Pandas, Numpy, PyTorch, TensorFlow]
 - C++ [Data structure, Algorithms]
 
 
@@ -21,8 +21,7 @@
 ---
 
 ### Current Projects
-- Building my own **MCQ Practice Platform** using Django
-- Developing a **Python-based Terminal**
+- Building my own **Python-based Terminal**
 - Researching on **Data Transfer from a Biological Brain to an AI Brain**
 
 
