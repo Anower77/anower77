@@ -24,7 +24,7 @@
 
 ---
 
-### Current Projects
+### Projects
 - Building my own **Python-based Terminal**
 - Researching on **Data Transfer from a Biological Brain to an AI Brain**
 
