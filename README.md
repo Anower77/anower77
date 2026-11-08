@@ -13,14 +13,14 @@ I have a foundation in C, C++, Python, Data Structures, Algorithms, and Problem 
 - **Backend Engineering:** Python, Django, DRF, Flask, REST APIs, Celery, RabbitMQ, Redis
 - **Cloud & Infrastructure:** AWS (EC2, S3, RDS, Lambda, ECS, API Gateway, IAM, CloudWatch, SQS), Azure, Oracle, IaC
 - **DevOps & Automation:** Linux, Docker, K8s, Podman, Nginx, Gunicorn, CI/CD, CT/CM
-- **Distributed Systems:** Microservices Architecture, Message Queues, Asynchronous Processing, Service Communication, API Gateway
+- **Distributed Systems:** Microservices, Message Queues, Asynchronous Processing, Service Communication, API Gateway
 - **AI & Machine Learning:** Model Training, Model Fine-Tuning, PyTorch, TensorFlow, ML, DL
 - **Generative AI & LLM Engineering:** RAG, Embeddings, Vector DB, Semantic Search
 - **AI Automation:** AI Agents, Workflow Automation, Tool Integration, AI-Powered Applications
 - **Databases:** PostgreSQL, MySQL, SQLite, Database Design, Query Optimization
 - **Architecture & Security:** Scalable System Design, JWT, OAuth2, Authentication, Authorization
 - **Programming & Problem Solving:** Python, C, C++, Data Structures, Algorithms, OOP
-- **Open to:** DevOps Engineering, Cloud Infrastructure, Backend Engineering, Distributed Systems, AI Engineering, Research, and Open-Source Collaborations
+
 
 ---
 
