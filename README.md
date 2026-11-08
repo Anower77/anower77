@@ -1,32 +1,35 @@
-## Hi, There. This is Anower Hossen.
+# Hi, There. This is Anower Hossain.
 
-### Software Engineer 
+### Software Engineer
 
-##- I have been working as a programmer for several years, with experience in C, C++, and Python, Algorithms, and Data structures. I am passionate about solve a problem and enjoy finding creative solutions to complex challenges. 
+##- I am a Software Engineer focused on **Backend Engineering, DevOps and Distributed Systems**. I have professional experience in Python-based backend development, API engineering, database management, and application deployment.
+
+My interests extend beyond application development to building reliable, scalable, and maintainable systems. I enjoy working with distributed architectures, containerization, cloud platforms, infrastructure automation, and system reliability.
+
+I have a foundation in C, C++, Python, Data Structures, Algorithms, and Problem Solving, with a continuous focus on understanding how software systems are designed, deployed, scaled, and operated in production environments.
 
 ### About Me
 
-- **Backend:** Python, Django, DRF, REST API, Celery, RabbitMQ, Redis
+- **Backend Engineering:** Python, Django, DRF, Flask, REST APIs, Celery, RabbitMQ, Redis
+- **Cloud & Infrastructure:** AWS (EC2, S3, RDS, Lambda, ECS, API Gateway, IAM, CloudWatch, SQS), Azure, Oracle, IaC
+- **DevOps & Automation:** Linux, Docker, K8s, Podman, Nginx, Gunicorn, CI/CD, CT/CM
+- **Distributed Systems:** Microservices Architecture, Message Queues, Asynchronous Processing, Service Communication, API Gateway
+- **AI & Machine Learning:** Model Training, Model Fine-Tuning, PyTorch, TensorFlow, ML, DL
+- **Generative AI & LLM Engineering:** RAG, Embeddings, Vector DB, Semantic Search
+- **AI Automation:** AI Agents, Workflow Automation, Tool Integration, AI-Powered Applications
 - **Databases:** PostgreSQL, MySQL, SQLite, Database Design, Query Optimization
-- **Cloud & AWS:** EC2, S3, Lambda, RDS, ECS, API Gateway, IAM, CloudWatch, SQS
-- **Containers:** Docker, Docker Compose, Podman
-- **DevOps:** Linux, Nginx, Gunicorn, GitHub Actions, CI/CD, Infrastructure as Code (IaC)
-- **Architecture:** Microservices, JWT, OAuth2, OpenAPI/Swagger, Scalable System Design
-- **Currently Learning:** Advanced AWS Services, Kubernetes, Advanced PostgreSQL
-- **Open to:** Collaborations, Open-Source Projects, Research, and Backend Development Roles
----
-
-#### <h3 align="left">Languages:</h3>
-- C / C++
-- Python [Django, Flask, Pandas, Numpy, PyTorch, TensorFlow]
-- C++ [Data structure, Algorithms]
-
+- **Architecture & Security:** Scalable System Design, JWT, OAuth2, Authentication, Authorization
+- **Programming & Problem Solving:** Python, C, C++, Data Structures, Algorithms, OOP
+- **Open to:** DevOps Engineering, Cloud Infrastructure, Backend Engineering, Distributed Systems, AI Engineering, Research, and Open-Source Collaborations
 
 ---
 
-### Projects
-- Building my own **Python-based Terminal**
-- Researching on **Data Transfer from a Biological Brain to an AI Brain**
+### Projects & Research
+
+- **Microservices Lab:** Exploring distributed application architecture, service communication, API gateways, message brokers, containerization, and automated deployment.
+- **DootGo:** Building a traveler-to-sender goods marketplace with role-based services and backend architecture.
+- **Python-Based Terminal:** Building a terminal application using Python to explore command execution and system-level concepts.
+- **Brain-to-AI Research:** Exploring the intersection of neuroscience, EEG signals, artificial intelligence, and brain-computer interfaces, including research on biological-to-artificial information representation.
 
 ---
 
