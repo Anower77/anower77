@@ -19,7 +19,6 @@ I have a foundation in C, C++, Python, Data Structures, Algorithms, and Problem 
 - **AI Automation:** AI Agents, Workflow Automation, Tool Integration, AI-Powered Applications
 - **Databases:** PostgreSQL, MySQL, SQLite, Database Design, Query Optimization
 - **Architecture & Security:** Scalable System Design, JWT, OAuth2, Authentication, Authorization
-- **Programming & Problem Solving:** Python, C, C++, Data Structures, Algorithms, OOP
 
 
 ---
