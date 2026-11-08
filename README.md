@@ -10,7 +10,7 @@ I have a foundation in C, C++, Python, Data Structures, Algorithms, and Problem 
 
 ### About Me
 
-- **Backend Engineering:** Python, Django, DRF, Flask, REST APIs, Celery, RabbitMQ, Redis
+- **Backend Engineering:** Python, Go, DRF, Flask, REST APIs, Celery, RabbitMQ, Redis
 - **Cloud & Infrastructure:** AWS (EC2, S3, RDS, Lambda, ECS, API Gateway, IAM, CloudWatch, SQS), Azure, Oracle, IaC
 - **DevOps & Automation:** Linux, Docker, K8s, Podman, Nginx, Gunicorn, CI/CD, CT/CM
 - **Distributed Systems:** Microservices, Message Queues, Asynchronous Processing, Service Communication, API Gateway
