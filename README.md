@@ -27,8 +27,7 @@ I have a foundation in C, C++, Python, Data Structures, Algorithms, and Problem 
 
 - **Microservices Lab:** Exploring distributed application architecture, service communication, API gateways, message brokers, containerization, and automated deployment.
 - **DootGo:** Building a traveler-to-sender goods marketplace with role-based services and backend architecture.
-- **Python-Based Terminal:** Building a terminal application using Python to explore command execution and system-level concepts.
+- **Python-Based Terminal:** Building a terminal application using Python to explore command execution 
 - **Brain-to-AI Research:** Exploring the intersection of neuroscience, EEG signals, artificial intelligence, and brain-computer interfaces, including research on biological-to-artificial information representation.
 
----
 
